@@ -2,7 +2,7 @@
 
 Final project for Microprocessors course of the School of Electrical Engineering, UCR
 
-The task was to develop an RTOS for a radar system simulated with the push of two buttons and all the drivers involves in the process, everything in Freescale assembly language for a Dragon12+ training board using an HCS12 microntroller.
+The task was to develop an RTOS for a radar system simulated with the push of two buttons and all the drivers involved in the process, everything in Freescale assembly language for a Dragon12+ training board using an HCS12 microntroller.
 
 The requirements for the project were to develop the following:
 
@@ -10,7 +10,7 @@ The requirements for the project were to develop the following:
     - A BIOS section for initializing all the hardware.
     - Functions for computing the speed of a car from the input of two digital lines and a timer.
     - Interface for printing text to the LCD display.
-    - Three modes of operation: Inactive, Configuration, Active.
+    - Three modes of operation: Inactive, Configuration, and Active.
     - Drivers for:
         - LCD display.
         - Push buttons.
